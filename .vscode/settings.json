@@ -1,0 +1,10 @@
+{
+    "solidity.compileUsingLocalVersion": "",
+    "solidity.linter": false,
+    "solidity.packageDefaultDependenciesContractsDirectory": "",
+    "solidity.soliumRules": {
+
+    },
+    "solidity.telemetry": false,
+    "solidity.defaultCompiler": "localFile"
+}
